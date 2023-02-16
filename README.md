@@ -7,7 +7,6 @@ This is a website that contains information about me, a method of contacting me 
 ## Installation
 Website is available here: https://llangerud.github.io/portfolio-page/
 
-[screenshot](photos/screenshot.jpg.png)
 
 
 ## Usage
